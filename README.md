@@ -1,2 +1,4 @@
-# datascience
-welcome to data science
+print('hello world')
+x = ['Awais','umair','host']
+x.sort()
+print(x)
